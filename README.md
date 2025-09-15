@@ -1,3 +1,4 @@
+
 # 🚀 Generative AI Text Generation App (Gemini + Streamlit)
 
 A simple **Generative AI application** built with **Google’s Gemini API** and **Streamlit**.  
@@ -15,20 +16,18 @@ This app takes user prompts and generates text responses using the **Gemini 2.5 
 ---
 
 ## ⚡ Features
-- ✅ Integrated **Gemini 2.5 Flash Lite** model via `google.generativeai`  
-- ✅ **Streamlit UI** for interactive text generation  
-- ✅ Secure API key handling using environment variables  
-- ✅ Lightweight and extensible starter project for **GenAI apps**  
+-  Integrated **Gemini 2.5 Flash Lite** model via `google.generativeai`  
+-  **Streamlit UI** for interactive text generation  
+-  Secure API key handling using environment variables  
+-  Lightweight and extensible starter project for **GenAI apps**  
 
 ---
 
 ## 🛠️ Installation & Setup
 
 1. **Clone the repository**
-   ```bash
-   git clone https://github.com/your-username/genai-streamlit-app.git
-   cd genai-streamlit-app
-   ```
+git clone https://github.com/your-username/genai-streamlit-app.git
+cd genai-streamlit-app
 
 2. **Create a virtual environment** (optional but recommended)
    ```bash
@@ -53,15 +52,6 @@ This app takes user prompts and generates text responses using the **Gemini 2.5 
 ## ▶️ Run the App
 ```bash
 streamlit run app.py
-```
-
-Then open the URL shown in the terminal (usually `http://localhost:8501`)  
-
----
-
-## 📸 Demo Screenshot (optional)
-*(You can add a screenshot of your Streamlit app UI here)*  
-
 ---
 
 ## 💡 Future Improvements
@@ -75,3 +65,11 @@ Then open the URL shown in the terminal (usually `http://localhost:8501`)
 - Python  
 - Streamlit  
 - Google Gemini API (`google.generativeai`)  
+
+--- 
+
+# GenAI-SetUp
+This is to deploy simply GenAI application
+
+## App Link - https://genai-setup-vikas-b-s.streamlit.app/
+
