@@ -60,7 +60,7 @@ Then open the URL shown in the terminal (usually `http://localhost:8501`)
 ---
 
 ## 📸 Demo Screenshot (optional)
-*(You can add a screenshot of your Streamlit app UI here)*  
+![App Screenshot]('GenAI_SS.png')
 
 ---
 
@@ -80,6 +80,5 @@ Then open the URL shown in the terminal (usually `http://localhost:8501`)
 This is to deploy simply GenAI application
 
 ## App Link - https://genai-setup-vikas-b-s.streamlit.app/
->>>>>>> 4b7baee43d4dacaaa31476a024402e962676caee
 
 
