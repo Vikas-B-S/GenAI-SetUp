@@ -53,7 +53,7 @@ This app takes user prompts and generates text responses using the **Gemini 2.5 
 ## ▶️ Run the App
 ```bash
 streamlit run app.py
----
+```
 
 ---
 
@@ -68,3 +68,6 @@ streamlit run app.py
 - Python  
 - Streamlit  
 - Google Gemini API (`google.generativeai`)  
+
+## App Link
+- Click here : https://genai-setup-vikas-b-s.streamlit.app/
