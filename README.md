@@ -43,10 +43,6 @@ This app takes user prompts and generates text responses using the **Gemini 2.5 
    ```
 
 4. **Set your Google API Key**
-   ```bash
-   export GOOGLE_API_KEY="AIzaSyDHOJnqZppQq_4-3C_SCYdob4yxnZdlsRM"   # Linux/Mac
-   setx GOOGLE_API_KEY "AIzaSyDHOJnqZppQq_4-3C_SCYdob4yxnZdlsRM"     # Windows
-   ```
 
 ---
 
