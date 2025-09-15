@@ -25,6 +25,10 @@ This app takes user prompts and generates text responses using the **Gemini 2.5 
 -  Secure API key handling using environment variables  
 -  Lightweight and extensible starter project for **GenAI apps**  
 =======
+- Integrated **Gemini 2.5 Flash Lite** model via `google.generativeai`  
+- **Streamlit UI** for interactive text generation  
+- Secure API key handling using environment variables  
+- Lightweight and extensible starter project for **GenAI apps**  
 >>>>>>> 2c1210be9a9128aa7769cdb10d9631fe38803a09
 
 ---
@@ -36,6 +40,10 @@ This app takes user prompts and generates text responses using the **Gemini 2.5 
 git clone https://github.com/your-username/genai-streamlit-app.git
 cd genai-streamlit-app
 =======
+   ```bash
+   git clone https://github.com/Vikas-B-S/GenAI-SetUp.git
+   cd GenAI-SetUp
+   ```
 >>>>>>> 2c1210be9a9128aa7769cdb10d9631fe38803a09
 
 2. **Create a virtual environment** (optional but recommended)
@@ -56,6 +64,8 @@ cd genai-streamlit-app
    export GOOGLE_API_KEY="your_api_key"   # Linux/Mac
    setx GOOGLE_API_KEY "your_api_key"     # Windows
 =======
+   export GOOGLE_API_KEY="AIzaSyDHOJnqZppQq_4-3C_SCYdob4yxnZdlsRM"   # Linux/Mac
+   setx GOOGLE_API_KEY "AIzaSyDHOJnqZppQq_4-3C_SCYdob4yxnZdlsRM"     # Windows
 >>>>>>> 2c1210be9a9128aa7769cdb10d9631fe38803a09
    ```
 
